@@ -1,0 +1,387 @@
+/* CSS Style Sheet */
+/*
+/* Product Specific Pages Styles */
+
+
+
+/* GENERIC PRODUCT PAGE STYLES */
+
+#spec-legal	{	line-height: .9em !important;
+			}
+
+/* HORIZONTAL BALERS ******************************************/
+/**************************************************************/
+
+/**************************************************************/
+/* END HORIZONTAL BALERS **************************************/
+
+/* Horizontals Main Page */
+
+#horizontals-simplicity {}
+
+#horizontals-power-savings	{}
+
+#horizontals-cost	{}
+
+/* end Horizontals Main Page */
+
+/* HSO Horizontal Balers */
+
+#hso-heavy-duty	{}
+
+#hso-power-unit	{}
+
+#hso-reliability	{	margin-bottom: 50px;
+						width: 570px;
+					}
+
+/* end HSO Horizontal Balers */
+
+/* HLO Horizontal Balers */
+
+#hlo-heavyu-duty	{}
+
+#hlo-power-unit	{}
+
+#hlo-control	{}
+
+#new-hlo-design	{}
+
+/* end HLO Horizontal Balers */
+
+/* HP Series Balers */
+
+#hp-high-speed	{}
+
+#hp-keep-up	{}
+
+#hp-durability	{}
+
+#hp-power-unit	{}
+
+/* end HP Series Balers */
+
+/* TWO RAM BALERS *********************************************/
+/**************************************************************/
+
+/* Two Ram Main Page */
+
+#two-ram-expectations	{}
+
+#two-ram-strength	{}
+
+#two-ram-versatility	{}
+
+#two-ram-new-designs	{}
+
+#two-ram-fit	{}
+
+#two-ram-diagnostics	{}
+
+#two-ram-vigilance	{}
+
+#tworam-collage	{	margin: 0 0 -15px -8px;
+				}
+
+/* end Two Ram Main Page */
+
+/* Badger Two Ram */
+
+#badger-power	{}
+
+#badger-structure	{}
+
+#badger-control	{}
+
+#badger-maintenance	{}
+
+/* end Badger Two Ram */
+
+
+/* Grizzly Two Ram */
+
+#grizzly-solid	{	margin: 0 0 -35px 0;
+				}
+
+#grizzly-performance	{}
+
+#grizzly-control	{}
+
+#grizzly-maintenance	{}
+
+
+/* End Grizzly Two Ram */ 
+
+/* Gorilla Two Ram */
+
+#gorilla-simple	{}
+
+#gorilla-solid	{}
+
+#gorilla-maintenance	{	width: 60%;
+						}
+
+#gorilla-power	{}
+
+#gorilla-control	{}
+
+#gorilla_paper	{	margin-top: -170px;
+				}
+/* end Gorilla Two Ram */
+
+/* Centurion Two Ram */
+
+#centurion-solid	{	margin: 0 0 -35px 0;
+					}
+
+#centurion-performance	{}
+
+#centurion-control	{	clear: both;
+					}
+					
+#centurion-heavyduty	{	clear: both;
+						}
+
+#centurion-maintenance	{}
+
+/* end Centurion Two Ram */
+
+/* Wolverine Two Ram */
+
+#wolverine-solid	{}
+
+#wolverine-power	{}
+
+#wolverine-control	{}
+
+
+
+/* end Wolverine Two Ram */
+
+/* HRB Two Ram */
+
+#hrb-solid	{}
+
+#hrb-performance	{}
+
+#hrb-ehd-performance	{}
+
+#hrb-standard-performance	{	width: 600px;
+							}
+
+#hrb-control	{	margin: 0 0 40px 0;
+				}
+
+#hrb-maintenance	{}
+
+/* end HRB Two Ram */
+
+/**************************************************************/
+/* END TWO RAM BALERS *****************************************/
+
+/* TRANSPAK SYSTEM ********************************************/
+/**************************************************************/
+
+#transpak-clean	{}
+
+#transpak-loading	{}
+
+#transpak-simple	{}
+
+#transpak-power	{}
+
+/**************************************************************/
+/* end TRANSPAK SYSTEM ****************************************/
+
+/**************************************************************/
+/* THREE COMPRESSION BALERS ***********************************/
+
+#three-compression-heavy-duty	{}
+
+#three-compression-reliability	{}
+
+#three-compression-energy	{}
+
+/* TG Baler */
+
+#tg-solid	{}
+
+#tg-independence	{}	
+
+#tg-performance	{}
+
+/* end TG Baler */
+
+
+/* TGS Baler */
+
+#tgs-solid	{}
+
+#tgs-flexibilty	{}
+
+#tgs-shear
+
+/* end TGS Baler */
+
+
+/* end THREE COMPRESSION BALERS *******************************/
+/**************************************************************/
+
+/**************************************************************/
+/* SHEARS AND BLS *********************************************/
+
+/* Shears */
+
+#shear-expectations
+
+/* end Shears */
+
+/* BLS */
+
+
+
+/* end BLS */
+
+
+/* GS Shear */
+
+#gs-longevity	{}
+
+#gs-performance	{}
+
+#gs-maintenance	{}
+
+#gs-control	{}
+
+/* end GS Shear */
+
+
+/* ABS Shear */
+
+
+
+/* end ABS Shear */
+
+
+/* BSH Shear */
+
+#bsh-performance	{}
+
+#bsh-structure	{}
+
+#bsh-maintenance	{}
+
+#bsh-controls	{}
+
+
+/* end BSH Shear */
+
+/* SC Shear */
+
+#scshear-performance	{}
+
+#scshear-structure	{}
+
+#scshear-maintenance	{}
+
+#scshear-controls	{}
+
+/* end SC Shear */
+
+/* SS Shear */
+
+#ss-performance	{}
+
+#ss-structure	{}
+
+#ss-maintenance	{}
+
+#ss-controls	{}
+
+/* end SS Shear */
+
+/* end SHEARS AND BLS *****************************************/
+/**************************************************************/
+
+
+/**************************************************************/
+/* SHREDDERS **************************************************/
+
+#shredder-casting	{}
+
+#castings-list	{	list-style-type: decimal; 
+					list-style: decimal outside; 
+					padding: 0 0 0 20px; 
+				}
+
+#castings-list li	{	list-style: decimal outside; 
+						padding: 0 0 0 10px; 
+					}
+					
+#shredder-roller	{}
+
+#shredder-rotors	{}
+
+#shredder-controls	{}
+
+#shredder-systems	{	margin: 30px 0 0 0;
+					}
+
+
+/* end SHREDDERS **********************************************/
+/**************************************************************/
+
+/**************************************************************/
+/* Ecotecnica Products ****************************************/
+
+/* Katana */
+
+#katana-structure	{	
+					}
+#katana-additional-features	{	padding: 0 0 50px 0;
+							}
+#katana-controls	{	padding: 0 0 20px 0;
+					}
+
+#katana-specs	{	margin-top: 30px;
+				}
+/* end Katana */
+
+/* Manta */
+
+#manta-structure	{}
+
+#manta-power	{	margin: 0 0 40px 0;
+				}
+#manta-power p	{	width: 550px;
+				}
+#manta-hydraulics	{}
+
+#manta-controls	{}
+
+#manta-additional-features	{	margin: 0 0 80px 0;
+							}
+
+#manta-maintenance	{}
+
+/* end Manta */
+
+/* Orca */
+
+#orca-structure	{}
+
+#orca-power	{}
+
+#orca-hydraulics	{}
+
+#orca-controls	{}
+
+#orca-additional-features	{	margin: 0 0 30px 0;
+							}
+
+#orca-maintenance	{}
+
+/* end Orca */
+
+/* end Ecotecnica Products ************************************/
+/**************************************************************/

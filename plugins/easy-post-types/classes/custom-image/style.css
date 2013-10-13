@@ -1,0 +1,12 @@
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+div.list-images li {
+  float: left;
+  padding: 5px;
+}
+div.add-image-field {
+  padding: 5px;
+}

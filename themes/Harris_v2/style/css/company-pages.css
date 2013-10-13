@@ -1,0 +1,86 @@
+/* CSS Style Sheet */
+/*
+/* Company Pages Specific Styles */
+
+/* GENERIC COMPANY PAGES STYLES */
+
+
+/* Vision Page */
+
+/* End Vision Page */
+
+
+/* History Page */
+
+/* end History Page */
+
+
+/* On The Go Page */
+
+.tradeshow-title	{	padding: 0 0 15px;
+						font-weight: bold;
+						color: #555;
+						text-align: center;
+						text-shadow: #fff 0px 2px 1px;
+					}
+
+#tradeshow-list	{}
+
+#tradeshow-list li	{	position: relative;
+						display: inline-block;
+						width: 855px;
+						top:0;
+						right: 0;
+						padding: 20px;
+						border-left: 1px #ddd solid;
+						border-bottom: 3px #ddd solid;
+						border-top: 1px #f1f1f1 solid;
+						border-right: 1px #ddd solid;
+						background: #fff url(../../assets/productPages/sidebar_bckgrnd.jpg) repeat-x;
+						box-shadow: 0 1px 5px #ddd;
+						-webkit-box-shadow: 0 1px 5px #ddd;
+						-moz-box-shadow: 0 1px 5px #ddd;
+					}
+
+.tradeshow-image	{	width: 180px;
+						height: 180px;
+						display: block;
+						float: left;
+						padding: 0 25px 10px 0;
+					}
+
+#tradeshow-list li h3	{}
+
+.tradeshow-date	{	font-size: .8em;
+					font-style: italic;
+					padding: 0 0 0 15px;
+				}
+
+.tradeshow-link	{}
+
+.tradeshow-description	{	width: 400px;
+							float: left;
+						}
+
+.tradeshow-contact-info	{	width: 220px;
+							display: block;
+							float: right;
+							min-height: 150px;
+							border-left: 1px #ccc solid;
+							padding: 0 0 0 15px;
+						}
+
+.tradeshow-address
+
+.tradeshow-city-state-zip	{}
+
+.tradeshow-phone	{}
+
+.tradeshow-email	{}
+
+.booth-number	{	font-family: 'MyriadProBlack', "Trebuchet MS", Arial;
+					font-size: 1.3em;
+				}
+/* end On The Go Page */
+
+

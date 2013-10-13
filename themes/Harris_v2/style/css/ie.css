@@ -1,0 +1,136 @@
+
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+/* TYPOGRAPHY */
+/* ----------------------------------------- */
+
+
+@font-face {
+	font-family: 'MyriadProRegular';
+	src: url('../fonts/MyriadPro-Regular.eot');
+	src: local('../fonts/Myriad Pro Regular'), local('MyriadPro-Regular'), url('../fonts/MyriadPro-Regular.woff') format('woff'), url('../fonts/MyriadPro-Regular.otf') format('opentype'), url('../fontsMyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+}
+
+@font-face {
+	font-family: 'MyriadProBlack';
+	src: url('../fonts/MyriadPro-Black.eot');
+	src: local('../fonts/Myriad Pro Black'), local('MyriadPro-Black'), url('MyriadPro-Black.woff') format('woff'), url('MyriadPro-Black.otf') format('opentype'), url('../fonts/MyriadPro-Black.svg#MyriadPro-Black') format('svg');
+}
+
+h1	{	font-size: 33px;
+		line-height: 1.4em;
+		color: #666666;
+		font-family: "Trebuchet MS", Arial;
+	}
+h2	{	font-size: 28px;
+		line-height: 1.3em;
+		display: block;
+		color: #222;
+	}
+h3	{	font-size: 22px;
+		line-height: 1.2em;
+		padding: 3px 0 10px 0;
+		margin: 0 0 -5px 0;
+		color: #222;
+		font-weight: bold;
+	}
+h4	{	font-size: 20px;
+		line-height: 1.2em;
+		margin: 6px 0 5px 0;
+	}
+h5	{	font-size: 16px;
+		text-transform: uppercase;
+		margin: 10px 0 0 0;
+		display: block;
+		font-weight: bold;
+		color: #222;
+	}
+h6	{	font-size: 18px;
+		margin: -3px 0 0 0;
+		color: #dc291e;
+		color: #222;
+		text-transform: uppercase;
+	}
+p	{	color: #444;
+		line-height: 1.3em !important;
+		font-size: 16px;
+	}
+h4 a	{	color: #dc291e;
+			text-decoration: none;
+		}
+a	{	color: #dc291e;!important
+		text-decoration: none;
+	}
+a:hover	{	text-decoration: underline;
+		}
+body	{	font-family: "Trebuchet MS", Arial !important;
+		}
+
+.alert { background:red; color:white } /* 'alert' has a basic style, since it's useful to have it standing out for testing purposes.*/
+
+.emphasis	{	color: #222;
+				font-weight: bold;
+				font-size: 1.1em;
+			}
+			
+#emailSubmit	{	margin: -32px 0 -35px 5px !important;
+					top:9px;
+				}
+#power-consumption	{	border-right: #ddd solid 1px;
+						width: 28% !important;
+					}
+#real-time-OD	{	border-right: #ddd solid 1px;
+					width: 28% !important;
+				}				
+#schedule-maintenance	{	width: 28% !important;
+
+						}
+
+/* Footer */				
+.leftCol_footer		{	width: 650px;	}
+.rightCol_footer	{	width: 290px;	}
+
+						
+/* Hero - Home page */
+.frontPageAd	{	margin: 25px 0 30px -2px;
+					height: 450px;
+					width: 100%;
+					display: block;
+					position: relative;
+					border: 1px solid white;
+					background: transparent url(../../assets/mainAd_HarrisBLS.png) center no-repeat;	
+					box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+				}
+.mainAd-text		{	position: absolute;
+						right: 30px;
+						width: 410px;
+						top: 100px;
+					}
+.mainAd-text ul		{	list-style-type: disc;
+					}
+.mainAd-text li		{	list-style-type: disc;
+						list-style-position: outside;
+						font-size: 14px;
+						margin-bottom: 4px;					
+					}
+.mainAd-cta			{	bottom: 40px;
+						text-shadow: 0 2px 12px rgba(0,0,0,1);
+						position: absolute;
+						background: green;
+						color: white;
+						padding: 8px 66px 8px;
+						right: 122px;
+						border-radius: 50px;
+					}
+.mainAd-cta:hover	{	box-shadow: 0 3px 5px 1px rgba(0,0,0,0.8);	}
+.mainAd-cta a 		{	color: white;
+						text-decoration: none;
+						font-size: 28px;
+						width: 100%;
+						height: 100%;
+					} 

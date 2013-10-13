@@ -1,0 +1,34 @@
+/* Harrisequip.com - Print Stylesheet */
+
+body	{	font-family:  Georgia, serif;
+			background: none;
+			color: black;
+		}
+#harrisLogo	{	display: block;
+			}
+.header, .navigation, .translation, .footer, .footerHome, .childPages, .productSidebar, .contactButton, .safetySidebar, .blogSidebar, .postEnd, .commentlist, .response, .product_thumbs, hr, .orgMemberships, .youTube, .contactSidebar, .newDesign  	{	display: none;
+			}
+.blogpost	{	padding: 0 10px;
+			}			
+.container	{	width: 100%;
+			}
+a	{	color: #dc291e;
+	}		
+.bolgpost a:after, .content a:after, .pageContent a:after	{	content: " [" attr(href) "] ";
+									}
+.machine-specs	{	page-break-before:always;
+					padding: 20px 0 0 0;
+				}
+.specificationHeader	{	color: white;
+							background: #777;
+							padding: 10px 5px 10px 25px;
+							display: block;
+							width: 100%;
+							
+						}
+.pageContent ul	{	list-style: none;
+				}
+.frontIntro	{	list-style: none;
+				}
+.mainPage_previews	ul	{	list-style: none;
+						}

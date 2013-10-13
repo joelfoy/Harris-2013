@@ -1,0 +1,89 @@
+
+
+/* TYPOGRAPHY */
+/* ----------------------------------------- */
+
+
+@font-face {
+	font-family: 'MyriadProRegular';
+	src: url('../fonts/MyriadPro-Regular.eot');
+	src: local('../fonts/Myriad Pro Regular'), local('MyriadPro-Regular'), url('../fonts/MyriadPro-Regular.woff') format('woff'), url('../fonts/MyriadPro-Regular.otf') format('opentype'), url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+}
+
+@font-face {
+	font-family: 'MyriadProBlack';
+	src: url('../fonts/MyriadPro-Black.eot');
+	src: local('../fonts/Myriad Pro Black'), local('MyriadPro-Black'), url('MyriadPro-Black.woff') format('woff'), url('MyriadPro-Black.otf') format('opentype'), url('../fonts/MyriadPro-Black.svg#MyriadPro-Black') format('svg');
+}
+
+h1	{	font-size: 33px;
+		line-height: 1.4em;
+		color: #666666;
+		font-family: 'MyriadProRegular', "Trebuchet MS", Arial;
+	}
+h2	{	font-size: 24px;
+		line-height: 1.3em;
+		display: block;
+		color: #222;
+		font-weight: bold;
+	}
+h3	{	font-size: 24px;
+		line-height: 1.2em;
+		padding: 3px 0 10px 0;
+		margin: 0 0 -5px 0;
+		color: #222;
+	}
+h4	{	font-size: 20px;
+		line-height: 1.2em;
+		margin: 6px 0 5px 0;
+	}
+h5	{	font-size: 16px;
+		text-transform: uppercase;
+		margin: 10px 0 0 0;
+		display: block;
+		font-weight: bold;
+		color: #222;
+	}
+h6	{	font-size: 18px;
+		margin: -3px 0 0 0;
+		color: #dc291e;
+		color: #222;
+		text-transform: uppercase;
+	}
+p	{	color: #444;
+		line-height: 1.4em;
+		font-size: 16px;
+	}
+h4 a	{	color: #dc291e;
+			text-decoration: none;
+		}
+a	{	color: #dc291e;!important
+		text-decoration: none;
+	}
+a:hover	{	text-decoration: underline;
+		}
+body	{	font-family: 'MyriadProRegular', "Trebuchet MS", Arial;
+		}
+
+.alert { background:red; color:white } /* 'alert' has a basic style, since it's useful to have it standing out for testing purposes.*/
+
+.emphasis	{	color: #222;
+				font-weight: bold;
+				font-size: 1.1em;
+			}
+			
+/* General Page Styles ******************************************************/
+
+/* Navigation */
+navigation	{	font-family: 'MyriadProRegular', "Trebuchet MS", Arial;
+			}
+/* end Navigation */
+
+.harrisTitle	{	font-family: 'MyriadProBlack', "Trebuchet MS", Arial;
+					color: #dc291e;
+				}
+.intro	{	font-size: 1.4em;
+			line-height: 1.5em;
+			padding-bottom: 15px;
+		}
+/* end General Page styles **************************************************/

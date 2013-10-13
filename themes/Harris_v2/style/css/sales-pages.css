@@ -1,0 +1,99 @@
+/* 
+	Harris Sales Pages CSS
+*/
+.sales-contact-group	{	width: 565px;
+							float: left;
+						}
+.harris-regional-contact	{	width: 504px;
+								padding: 20px 20px 10px 20px;
+								margin: 0 0 20px 0;
+								border-left: 1px #ddd solid;
+								border-bottom: 3px #ddd solid;
+								border-top: 1px #f1f1f1 solid;
+								border-right: 1px #ddd solid;
+								background: #fff url(../../assets/productPages/sidebar_bckgrnd.jpg) repeat-x;
+								box-shadow: 0 1px 5px #ddd;
+								-webkit-box-shadow: 0 1px 5px #ddd;
+								-moz-box-shadow: 0 1px 5px #ddd;
+								
+							}
+.sales-agent-header	{	margin: 5px 0 20px 0;
+						padding: 4px 0 0 15px;
+						color: #555;
+						text-align: center;
+						border-top: #ccc solid 1px;
+						border-bottom: #ccc solid 1px;
+						width: 530px;
+					}
+.contact-name	{	font-size: 18px !important;
+					font-weight: bold;
+					font-style: italic;
+				}
+.contact-phone	{	font-size: 22px !important;
+					line-height: 20px;
+					font-weight: bold;
+				}
+/* International Sales Pages */
+
+#intDistributorsAgents	{	width: 565px;
+							float: left;
+						}
+#intDistributorsAgents li	{	width: 240px;
+								float: left;
+								margin: 0 20px 20px 0;
+								padding: 20px 10px 10px 10px;
+								min-height: 365px;
+								border: 2px solid #ccc;
+								border-left: 1px #ddd solid;
+								border-bottom: 3px #ddd solid;
+								border-top: 1px #f1f1f1 solid;
+								border-right: 1px #ddd solid;
+								background: #fff url(../../assets/productPages/sidebar_bckgrnd.jpg) repeat-x;
+								box-shadow: 0 1px 5px #ddd;
+								-webkit-box-shadow: 0 1px 5px #ddd;
+								-moz-box-shadow: 0 1px 5px #ddd;
+							}
+#intDistributorsAgents li p	{	line-height: 1.1em;
+							}
+#intDistributorsAgents li img	{	padding: 0 10px 0 0;
+								}
+.countries	{	margin: -8px 0 0 0;
+			}
+
+/* end International Sales Page */
+
+/* North American Sales Page */
+#RSMList	{	width: 565px;
+				float: left;
+			}
+.RSM	{	float: left;
+			width: 240px;
+			min-height: 90px;
+			margin: 0 20px 20px 0;
+			padding: 20px 10px 10px 10px;
+			border-left: 1px #ddd solid;
+			border-bottom: 3px #ddd solid;
+			border-top: 1px #f1f1f1 solid;
+			border-right: 1px #ddd solid;
+			background: #fff url(../../assets/productPages/sidebar_bckgrnd.jpg) repeat-x;
+			box-shadow: 0 1px 5px #ddd;
+			-webkit-box-shadow: 0 1px 5px #ddd;
+			-moz-box-shadow: 0 1px 5px #ddd;
+		}
+.RSM .contact-phone	{	font-size: 20px !important;
+						padding: 10px 0 0 10px;
+					}
+.RSM h5	{	padding: 0 0 0 10px !important;
+		}
+.RSM_name	{	font-size: 20px;
+			} 
+#Jeff	{	background-color:#f99e27; color:black; padding:4px 0 2px 10px;	}
+#_Brian	{	background-color:#008b99; color:black; padding:4px 0 2px 10px;	}
+#Page	{	background-color:#f9f153; color:black; padding:4px 0 2px 10px;	}
+#Randy	{	background-color:#855fa9; color:black; padding:4px 0 2px 10px;	}
+#Scott	{	background-color:#008b99; color:black; padding:4px 0 2px 10px;	}
+#Brian	{	background-color:#d52027; color:black; padding:4px 0 2px 10px;	}
+#Jon	{	background-color:#4ab1e1; color:black; padding:4px 0 2px 10px;	}	
+#DarkBlue	{	background-color:#004b85; color:black; padding:4px 0 2px 10px;	}
+#Bill	{	background-color:#6eac44; color:black; padding:4px 0 2px 10px;	}
+/* end North American Sales Page */
